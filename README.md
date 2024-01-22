@@ -16,7 +16,7 @@ A simple quiz app built with JavaScript.
 
 ## Preview
 
-[See live demo]()
+[See live demo](https://dev-shuvo.github.io/Quiz-App-JavaScript/)
 
 | ![](preview.png) |
 | ---------------- |
